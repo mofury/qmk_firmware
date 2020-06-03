@@ -1,0 +1,5 @@
+MOUSEKEY_ENABLE = yes	# enables mouse
+EXTRAKEY_ENABLE = yes   # enables system keys
+
+RGBLIGHT_EFFECT_BREATHING = yes
+RGBLIGHT_EFFECT_STATIC_GRADIENT = yes
