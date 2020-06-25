@@ -26,9 +26,3 @@
 
 // Recommended for heavy chording
 #define QMK_KEYS_PER_SCAN 4
-
-// Enable light per layer
-#define RGBLIGHT_LAYERS
-
-// Set tapping term
-#define TAPPING_TERM 180
