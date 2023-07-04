@@ -21,10 +21,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
  [0] = LAYOUT_ortho_5x15(
     _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______,
-    _______, KC_W,    KC_F,    KC_P,    KC_B,    _______, _______, _______, _______, _______, KC_J,    KC_L,    KC_U,    DE_Y,    _______,
-    KC_A,    KC_R,    KC_S,    KC_T,    KC_G,    _______, _______, _______, _______, _______, KC_M,    KC_N,    KC_E,    KC_I,    KC_O,
-    QK_REP,  KC_X,    KC_C,    KC_D,    KC_V,    _______, _______, _______, _______, _______, KC_K,    KC_H,    KC_COMM, KC_DOT,  QK_AREP,
-    _______, _______, OSM(MOD_LGUI), OSL(2), KC_SPC, _______, _______, _______, _______, _______, KC_ENT, OSL(1), OSM(MOD_RALT), _______, _______
+    _______, KC_W,    KC_F,    KC_P,    KC_B,    _______, KC_WH_D, KC_MS_U, KC_WH_U, _______, KC_J,    KC_L,    KC_U,    DE_Y,    _______,
+    KC_A,    KC_R,    KC_S,    KC_T,    KC_G,    _______, KC_MS_L, KC_BTN1, KC_MS_R, _______, KC_M,    KC_N,    KC_E,    KC_I,    KC_O,
+    QK_REP,  KC_X,    KC_C,    KC_D,    KC_V,    _______, KC_WH_L, KC_MS_D, KC_WH_R, _______, KC_K,    KC_H,    KC_COMM, KC_DOT,  QK_AREP,
+    _______, _______, OSM(MOD_LGUI), OSL(2), KC_SPC, _______, KC_BTN1, KC_BTN3, KC_BTN2, _______, KC_ENT, OSL(1), OSM(MOD_RALT), _______, _______
   ),
 
  [1] = LAYOUT_ortho_5x15(
