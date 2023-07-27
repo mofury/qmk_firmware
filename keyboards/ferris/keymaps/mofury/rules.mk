@@ -1,0 +1,6 @@
+REPEAT_KEY_ENABLE = yes
+CAPS_WORD_ENABLE = yes
+COMBO_ENABLE = yes
+MOUSE_KEY_ENABLE = yes
+VPATH += keyboards/gboards
+RGBLIGHT_ENABLE = no
